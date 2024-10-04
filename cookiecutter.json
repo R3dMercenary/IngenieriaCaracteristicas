@@ -1,0 +1,8 @@
+{
+    "project_title": "Ingeniería de caracteristicas",
+    "project_slig": "cookiecutter_personal",
+    "project_description": "Descarga de datos de la web",
+    "project_author_name": "Your name",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.11"
+}
