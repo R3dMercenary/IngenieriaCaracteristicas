@@ -10,6 +10,21 @@ dependencies:
   - jupyter
   - jupyterlab
   - pathlib
+  - black
+  - flake8
+  - ipython
+  - isort
+  - loguru
+  - matplotlib
+  - mkdocs
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - python-dotenv
+  - scikit-learn
+  - tqdm
+  - typer
   {% endif -%}
   - pip
   {% if cookiecutter.project_packages == "All" -%}
